@@ -1,4 +1,6 @@
-![image info](assets/header.png)
+![image info](assets/header.png)   
+
+
 **[About](README.md#about) | [Trainings](README.md#trainings)** 
 
 # About
