@@ -7,6 +7,6 @@
  ![](assets/lvgl.png)  **Developing with LVGL for embedded systems** 
 
 
+ ![](assets/linux.png)  **The linux system programmer** 
 
-#### The linux programmer training
 
