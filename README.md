@@ -21,6 +21,6 @@
 <p><br></p>
 
 
-K-Training 2025.
-36, Avenue Habib Bourguiba, Ezzahra
-Tunisia.
+<p>K-Training 2025.</p>
+<p>36, Avenue Habib Bourguiba, Ezzahra
+Tunisia.</p>
