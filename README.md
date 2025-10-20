@@ -4,7 +4,6 @@
 
 ## About
 ## Trainings
-<p>&nbsp;</p>
 <table style="width: 100%;">
  
 <tbody>
