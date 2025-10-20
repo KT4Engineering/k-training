@@ -9,7 +9,7 @@
 <tbody>
 <tr>
 <td style="width: 17%;"> <img src="assets/lvgl.png" alt="" ></td>
-<td style="width: 83%; vertical-align: middle; text-align: left;"> <h5><b>Developing with LVGL for embedded systems >></b></h5></td>
+<td style="width: 83%; vertical-align: middle; text-align: left;"> <h5><b><a href="sub/lvgl.md">Developing with LVGL for embedded systems >></a></b></h5></td>
 </tr>
 <tr>
 <td style="width: 17%;"> <img src="assets/linux.png" alt="" ></td>
