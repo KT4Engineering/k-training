@@ -1,3 +1,5 @@
 
 ![image info](assets/header.png)
-# k-training
+[About](README.md#about) | [Trainings](README.md#trainings) 
+# About
+# Trainings
