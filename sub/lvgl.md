@@ -12,4 +12,3 @@
 ## 📌 Training / onboarding information 
 
 ## 📝 Register
-
