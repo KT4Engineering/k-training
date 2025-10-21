@@ -1,6 +1,6 @@
 # 📚 Developing with LVGL for embedded systems
 
-## 🎯 Purpose
+##  🎯 Purpose
 
 * ✅ Learn about LVGL and understand each part of it
 * ✅ Build knowledge about displays and their functional building blocks
