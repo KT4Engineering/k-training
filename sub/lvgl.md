@@ -26,11 +26,32 @@ related to software development and design from low level HAL to application (Re
 
 ## 📂👨🏻‍🔧 From the inside
 
- * 
+ *  Brief reminder of c programming language as well as the techniques used in the making of LVGL.
  *  Compile LVGL Library using an editor like Eclipse CDT
  *  Compile LVGL via Command line (Linux Shell or MYSYS2 )
+ *  Use LVGL API to write widget code and show it on a screen
+ *  Integrate Drag-and-drop-generated project code and integrate it with LVGL
+ *  Create,in coordination with the trainer, an LVGL e-bike dasboard app and run it on emulator . The input sketch is provided
+   during the Lab and The result must be similar to the following:
+[E-bike dashbaord App](https://www.youtube.com/watch?v=jMRyvFU7gYQ)
+
+ * We already , have our own LVGL written code for the several projects included during the training , this includes Makefiles , and different projects
+   source code.  
+   
 ## 📖 Training scope
+
+  * The training is formed by 5 sections (chapters).
+  * Almost 50% Learning, 50% Practising .
 
 ## 📌 Training / onboarding information
 
+  * This training targets young graduate engineers from Electronics/Telecom/Computer fields.(Exclusively)
+  * 10~12 trainees per session
+  * Duration : 1 day.
+  * Location : Disclosed upon registration
+  * 
 ## 📝 Register
+<p>In order to register for the training, please fill in the form below and receive available sessions dates
+as well as next steps to follow:<br></p>
+
+[Click To fill in the registration form ](https://forms.gle/UJd1ihHvJNftb4U77)
