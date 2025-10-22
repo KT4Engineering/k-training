@@ -45,10 +45,11 @@ related to software development and design from low level HAL to application (Re
 
 ## 📌 Training / onboarding information
 
-  * This training targets young graduate engineers from Electronics/Telecom/Computer fields.(Exclusively)
+  * This training targets young graduate engineers from **Electrical/Electronics/Telecom/Computer** fields.(Exclusively)
   * 10~12 trainees per session
   * Delivered ressources include a booklet and software used during the training
   * Duration : 1 day.
+  * Training Fee : 65 TND
   * Location : Disclosed upon registration
     
 ## 📝 Register
