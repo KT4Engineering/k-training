@@ -20,12 +20,15 @@ related to software development and design from low level HAL to application (Re
 ##  🎯 Goals
 
  *  Learn about LVGL and understand each part of it
- *  Build knowledge about display as a peripheral and their functional building blocks
- *  Compile LVGL Library using an editor like Eclipse CDT
- *  Compile LVGL via Command line (Linux Shell or MYSYS2 )
+ *  Build knowledge about display screen as a peripheral and its functional building blocks
+ *  Co-Write, with the trainer, LVGL code and compile it and use an emulator to screen the widgets
+ *  Use toolchains, co-write Makefiles and other tasks of software engineering.  
 
 ## 📂👨🏻‍🔧 From the inside
 
+ * 
+ *  Compile LVGL Library using an editor like Eclipse CDT
+ *  Compile LVGL via Command line (Linux Shell or MYSYS2 )
 ## 📖 Training scope
 
 ## 📌 Training / onboarding information
