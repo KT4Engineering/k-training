@@ -47,9 +47,10 @@ related to software development and design from low level HAL to application (Re
 
   * This training targets young graduate engineers from Electronics/Telecom/Computer fields.(Exclusively)
   * 10~12 trainees per session
+  * Delivered ressources include a booklet and software used during the training
   * Duration : 1 day.
   * Location : Disclosed upon registration
-  * 
+    
 ## 📝 Register
 <p>In order to register for the training, please fill in the form below and receive available sessions dates
 as well as next steps to follow:<br></p>
