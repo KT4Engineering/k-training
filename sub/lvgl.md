@@ -49,7 +49,7 @@ related to software development and design from low level HAL to application (Re
   * 10~12 trainees per session
   * Delivered ressources include a booklet and software used during the training
   * Duration : 1 day.
-  * Training Fee : 65 TND
+  * Training Fee : 70 TND      (50 TND as fee , 20 TND as seat fee and resources allocation)
   * Location : Disclosed upon registration
     
 ## 📝 Register
@@ -57,3 +57,6 @@ related to software development and design from low level HAL to application (Re
 as well as next steps to follow:<br></p>
 
 [Click To fill in the registration form ](https://forms.gle/UJd1ihHvJNftb4U77)
+
+
+[Go to main page ](https://kt4engineering.github.io/k-training)
