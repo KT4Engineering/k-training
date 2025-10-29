@@ -11,7 +11,7 @@
 
 
 The main purpose of this training is to initiate young engineers to software development through learning
-and practising of LVGL as a typical project to start with. LVGL is an open source graphic library in increased adoption within the world of embedded systems. 
+and practising of LVGL as a typical project to start with. LVGL is an open source graphic library which is currently in increased adoption within the world of embedded systems. 
 
 This training is a valuable asset especially for those seeking their first job as it covers many topics and tips 
 related to software development and design from low level HAL to application (Read description below).
@@ -46,11 +46,11 @@ related to software development and design from low level HAL to application (Re
 ## 📌 Training / onboarding information
 
   * This training targets young graduate engineers from **Electrical/Electronics/Telecom/Computer** fields.(Exclusively)
-  * 10~12 trainees per session
+  * 8~10 trainees per session
   * Delivered ressources include a booklet and software used during the training
   * Duration : 1 day.
   * Training Fee : 70 TND      (50 TND as fee , 20 TND as seat fee and resources allocation)
-  * Location : Disclosed upon registration
+  * Location : **Bee Coworker Ezzahra** (any change is reflected here)
     
 ## 📝 Register
 <p>In order to register for the training, please fill in the form below and receive available sessions dates
