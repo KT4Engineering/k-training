@@ -52,6 +52,7 @@ related to software development and design from low level HAL to application (Re
   * Duration : 1 day.
   * Training Fee : 70 TND      (50 TND as fee , 20 TND as seat fee and resources allocation)
   * Location : **Bee Coworker Ezzahra**
+  * Training Language : Mixed (Tunisian, English, French)
     
 ## 📝 Register
 <p>In order to register for the training, please fill in the form below and receive available sessions dates
