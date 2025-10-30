@@ -51,7 +51,7 @@ related to software development and design from low level HAL to application (Re
   * Schedule : Week 1 , November 2025
   * Duration : 1 day.
   * Training Fee : 70 TND      (50 TND as fee , 20 TND as seat fee and resources allocation)
-  * Location : **Bee Coworker Ezzahra** (any change is reflected here)
+  * Location : **Bee Coworker Ezzahra**
     
 ## 📝 Register
 <p>In order to register for the training, please fill in the form below and receive available sessions dates
