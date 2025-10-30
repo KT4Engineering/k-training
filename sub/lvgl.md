@@ -45,7 +45,7 @@ related to software development and design from low level HAL to application (Re
 
 ## 📌 Training / onboarding information
 
-  * This training targets young graduate engineers from **Electrical/Electronics/Telecom/Computer** fields.(Exclusively)
+  * This training targets graduate engineers from **Electrical/Electronics/Telecom/Computer** fields seeking their first opportunity ,Exclusively.
   * 8~10 trainees per session
   * Delivered ressources include a booklet and software used during the training
   * Duration : 1 day.
