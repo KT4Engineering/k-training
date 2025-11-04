@@ -3,9 +3,10 @@
 | **[About](README.md#about)**    **[Trainings](README.md#trainings)** |
 
 ## About
-K-Training for engineering is dedicated for the empowerement of tunisian engineers\
-through targeted trainings that close the skill gap aligning them therefore to required\
-job qualifications in the field of software development and related topics. 
+Training solutions for engineering (TS4E)  is dedicated for the empowerement\
+of tunisian engineers through targeted trainings that close the skill gap \
+aligning them therefore to required job qualifications in the field of software\
+development and related topics. 
 
 ## Trainings
 <table style="width: 100%;">
@@ -28,6 +29,6 @@ job qualifications in the field of software development and related topics.
 <br>
 <br>
 <p><h6>
-K-Training 2025.<br>
+TS4 Engineering 2025.<br>
 36, Avenue Habib Bourguiba, Ezzahra<br>
 Tunisia.</h6></p>
