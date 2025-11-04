@@ -58,7 +58,7 @@ related to software development and design from low level HAL to application (Re
 <p>In order to register for the training, please fill in the form below and receive available sessions dates
 as well as next steps to follow:<br></p>
 
-[Click To fill in the registration form ](https://forms.gle/UJd1ihHvJNftb4U77)
+[Click To fill in the registration form ](https://forms.gle/KnzsCERSpa5zztHt8)
 
 
-[Go to main page ](https://kt4engineering.github.io/k-training)
+[Go to main page ](https://ts4engineering.github.io/TS4)
