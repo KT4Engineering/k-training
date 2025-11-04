@@ -1,10 +1,11 @@
-| ![image info](assets/header.png) |  
+| ![image info](assets/my_header.png) |  
 |:---------------------------------:|
 | **[About](README.md#about)**    **[Trainings](README.md#trainings)** |
 
 ## About
-K-Training for engineering is dedicated for the empowerement of tunisian engineers through targeted trainings
-that close the skill gap aligning them therefore to required job qualifications in the field of software development and related topics. 
+K-Training for engineering is dedicated for the empowerement of tunisian engineers\
+through targeted trainings that close the skill gap aligning them therefore to required\
+job qualifications in the field of software development and related topics. 
 
 ## Trainings
 <table style="width: 100%;">
