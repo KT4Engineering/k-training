@@ -33,7 +33,7 @@ related to software development and design from low level HAL to application (Re
  *  Integrate Drag-and-drop-generated project code and integrate it with LVGL
  *  Create,in coordination with the trainer, an LVGL e-bike dasboard app and run it on emulator . The input sketch is provided
    during the Lab and The result must be similar to the following:
-[E-bike dashbaord App](https://www.youtube.com/watch?v=jMRyvFU7gYQ)
+[E-bike dashbaord App](https://youtu.be/qh6WODrIBg4)
 
  * We already , have our own LVGL written code for the several projects included during the training , this includes Makefiles , and different projects
    source code.  
@@ -52,6 +52,7 @@ related to software development and design from low level HAL to application (Re
   * Duration : 1 day.
   * Training Fee : 70 TND      (50 TND as fee , 20 TND as seat fee and resources allocation)
   * Location : **Bee Coworker Ezzahra**
+  * Trainer : Engineer with extensive experience developing for linux and embedded systems
   * Training Language : Mixed (Tunisian, English, French)
     
 ## 📝 Register
