@@ -48,7 +48,7 @@ related to software development and design from low level HAL to application (Re
   * This training targets graduate engineers from **Electrical/Electronics/Telecom/Computer** fields seeking their first opportunity ,Exclusively.
   * 8~10 trainees per session
   * Delivered ressources include a booklet and software used during the training
-  * Schedule : Week 1 , November 2025
+  * Schedule : Week 4 , November 2025
   * Duration : 1 day.
   * Training Fee : 70 TND      (50 TND as fee , 20 TND as seat fee and resources allocation)
   * Location : **Bee Coworker Ezzahra**
