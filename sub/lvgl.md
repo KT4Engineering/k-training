@@ -30,7 +30,7 @@ related to software development and design from low level HAL to application (Re
  *  Compile LVGL Library using an editor like Eclipse CDT
  *  Compile LVGL via Command line (Linux Shell or MYSYS2 )
  *  Use LVGL API to write widget code and show it on a screen
- *  Integrate Drag-and-drop-generated project code and integrate it with LVGL
+ *  Use Drag-and-drop-generated project code and integrate it with LVGL
  *  Create,in coordination with the trainer, an LVGL e-bike dasboard app and run it on emulator . The input sketch is provided
    during the Lab and The result must be similar to the following:
 [E-bike dashbaord App](https://youtu.be/qh6WODrIBg4)
