@@ -59,6 +59,7 @@ related to software development and design from low level HAL to application (Re
   * Location : **Bee Coworker Ezzahra**
   * Trainer : Engineer with extensive experience developing for linux and embedded systems
   * Training Language : Mixed (Tunisian, English, French)
+  * At the end of the training you will receive an " Attestation de participation"
     
 ## 📝 Register
 <p>In order to register for the training, please fill in the form below and receive available sessions dates
