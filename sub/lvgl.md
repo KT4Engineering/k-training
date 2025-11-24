@@ -43,6 +43,11 @@ related to software development and design from low level HAL to application (Re
   * The training is formed by 5 sections (chapters).
   * Almost 50% Learning, 50% Practising .
 
+  * The main training plan is the following:
+
+     ![image info](../assets/lvgl_main_plan.png) 
+
+     
 ## 📌 Training / onboarding information
 
   * This training targets graduate engineers from **Electrical/Electronics/Telecom/Computer** fields seeking their first opportunity ,Exclusively.
