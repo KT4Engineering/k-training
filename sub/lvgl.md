@@ -55,7 +55,7 @@ related to software development and design from low level HAL to application (Re
   * Delivered ressources include a booklet and software used during the training
   * Schedule : Week 4 , November 2025 , and Week 1, December 2025
   * Duration : 1 day.
-  * Training Fee : 70 TND      (50 TND as fee , 20 TND as seat fee and resources allocation)
+  * Training Fee : **50 TND in all**  (including 20 TND as seat fee and resources allocation)
   * Location : **Bee Coworker Ezzahra**
   * Trainer : Engineer with extensive experience developing for linux and embedded systems
   * Training Language : Mixed (Tunisian, English, French)
